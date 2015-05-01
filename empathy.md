@@ -1,1 +1,1 @@
-Devops is having empathy that everyone is responsible.
+Devops is having empathy that *everyone is responsible*.
