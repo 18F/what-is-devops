@@ -1,1 +1,1 @@
-DevOps means having empathy, because **everyone is responsible**.
+Having empathy, because **everyone is responsible**.
