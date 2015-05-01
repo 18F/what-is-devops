@@ -21,3 +21,4 @@ Examples are:
 
 * [Empathy: the essence of DevOps](http://blog.ingineering.it/post/72964480807/empathy-the-essence-of-devops)
 * [Revisiting what is DevOps](http://radar.oreilly.com/2014/06/revisiting-what-is-devops.html)
+* [The Encasement Strategy](https://18f.gsa.gov/2014/09/08/the-encasement-strategy-on-legacy-systems-and-the/)
