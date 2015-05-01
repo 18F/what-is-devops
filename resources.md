@@ -9,7 +9,18 @@ Examples are:
 * [Puppet](https://puppetlabs.com/)
 * [Salt](http://saltstack.com/)
 
+### Application architecture
 
+Modern applications are usually modular, loosely coupled, and expressed as services. Beyond resulting in stable performance systems, this helps the team continually ship by not blocking each other's work.
+
+* [The Twelve Factor App](http://12factor.net/)
+
+### Continuous integration
+
+* [Jenkins](https://jenkins-ci.org/)
+* [Travis](https://travis-ci.org/)
+* [CircleCI](https://circleci.com/)
+* [SnapCI](https://www.snap-ci.com/)
 
 ### Books:
 
