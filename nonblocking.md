@@ -1,1 +1,1 @@
-Creating systems that allow work to **always move forward and change**.**
+...creating systems that allow work to **always move forward and change**.

@@ -1,1 +1,2 @@
-Having empathy, because **everyone is responsible**.
+
+...having empathy, because **everyone is responsible**.
