@@ -1,3 +1,16 @@
+Configuration management:
+
+Changing the configuration of any asset should be under total management and done through automated tools that leave an audit trail. This includes your entire environment - it should be entirely represetned as infrastructure as code (IaC). Use the open source versions before the paid enterprise versions.
+
+Examples are:
+
+* [Ansible](http://www.ansible.com/home)
+* [Chef](https://www.chef.io/chef/)
+* [Puppet](https://puppetlabs.com/)
+* [Salt](http://saltstack.com/)
+
+
+
 Books:
 
 * [The Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592)
