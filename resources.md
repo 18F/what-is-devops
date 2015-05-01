@@ -1,4 +1,4 @@
-### Configuration management:
+### Configuration management
 
 Changing the configuration of any asset should be under total management and done through automated tools that leave an audit trail. This includes your entire environment - it should be entirely represetned as infrastructure as code (IaC). Use the open source versions before the paid enterprise versions.
 
